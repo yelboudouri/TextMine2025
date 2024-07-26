@@ -1,0 +1,6 @@
+torch
+wandb
+pands
+scikit-learn
+tokenizers
+transformers
